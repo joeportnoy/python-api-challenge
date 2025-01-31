@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Adding config.py file.
+api_keys.py
+
+.DS_Store
+
 # C extensions
 *.so
 
